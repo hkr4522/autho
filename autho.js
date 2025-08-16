@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
         "https://vegamoviesnl.in",
-        "https://hindianimedownload.in",
+        "https://hindianimedownload.fun",
         "https://mkvcinemas.tv",
         "https://dktheme.com/vegaclone",
         "https://movies4u.press",
