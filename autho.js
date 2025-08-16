@@ -2,6 +2,8 @@ document.addEventListener('DOMContentLoaded', function() {
     var allowedURLs = [
         "https://vegamoviesnl.in",
         "https://hindianimedownload.fun",
+        "http://hindianimedownload.fun",
+        "hindianimedownload.fun",
         "https://pornwood.free.nf",
         "https://multimoviez.xyz/chek",
         "https://local.dktheme.com",
